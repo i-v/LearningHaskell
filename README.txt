@@ -1,0 +1,1 @@
+A repo for examples from http://learnyouahaskell.com
